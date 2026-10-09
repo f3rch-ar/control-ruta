@@ -5,3 +5,7 @@ Sistema para el registro automatizado de vehículos en un puesto de control de r
 
 ## 🚀 Uso
 Abrir el archivo `index.html` en el navegador, completar los datos solicitados en las ventanas emergentes y visualizar el resultado en la consola del navegador (`F12`).
+
+## 👥 Integrantes
+- Germán Lantaño
+- Fernando Carrazana
